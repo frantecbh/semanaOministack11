@@ -48,8 +48,8 @@ app.use(routes)
 
 
 
-app.listen(3333, ()=>{
+app.listen(3331, ()=>{
 
-    console.log("estou logado: http://localhost:3333");
+    console.log("estou logado: http://localhost:3331");
 
 })
